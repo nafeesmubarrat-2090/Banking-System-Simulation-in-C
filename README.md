@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Banking System (C/C++ Console)
 
 A simple console-based banking system that stores account records in plain text files. Supports creating accounts, viewing details, depositing, withdrawing, listing all accounts, viewing per-account history, and deleting accounts. Built for learning basic file I/O and structs.
@@ -89,3 +90,7 @@ Simple console banking system using text files for storage: create/view accounts
 
 ## Suggested Topics (Tags)
 `c` · `cpp` · `console-app` · `banking-system` · `file-io` · `learning-project` · `dirent` · `windows` · `msys2`
+=======
+# Banking-System-Simulation-in-C
+Simple console banking system using text files for storage: create/view accounts, deposit/withdraw, list, history, and delete — built for practicing C/C++ file I/O
+>>>>>>> caaa99487d1e47a2b94460e2187a0066bc1e29e4
